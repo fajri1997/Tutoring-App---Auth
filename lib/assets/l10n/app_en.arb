@@ -1,0 +1,10 @@
+{
+  "@@locale": "",
+  "login": "Login",
+  "register": "Register",
+  "name": "name",
+  "email": "email",
+  "username": "username",
+  "password": "password",
+  "googleLogin": "Google Login"
+}
